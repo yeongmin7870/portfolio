@@ -33,7 +33,7 @@
     <li>cgv, 메가박스 같은 영화 예매 어플 서비스 (팀 프로젝트)</li>
     <li>개발 기간: 2022.03.08 ~ 2022.05.31</li>
     <li>기술 스택:<br>
-      Java / Spring Boot / JPA / Oracle / Swagger / Maven / Thymeleaf</li>
+      Java 11/ Spring Boot / JPA / Oracle / Swagger / Maven / Thymeleaf</li>
   </p>
 </ul>
 <h4>:deciduous_tree: Contact</h4>
