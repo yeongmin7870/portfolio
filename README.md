@@ -30,7 +30,7 @@
 <h4>1. <a href="https://github.com/yeongmin7870/ys_Cinema_Server">영화예매 어플</a></h4>
 <ul>
   <p>
-    <li>cgv, 메가박스 같은 영화 예매 어플 서비스 (팀 프로젝트)</li>
+    <li>영화 예매 어플 서비스 (팀 프로젝트)</li>
     <li>개발 기간: 2022.03.08 ~ 2022.05.31</li>
     <li>기술 스택:<br>
       Java 11/ Spring Boot / JPA / Oracle / Swagger / Maven / Thymeleaf</li>
