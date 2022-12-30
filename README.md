@@ -25,8 +25,10 @@
 </p>
 <h4>:deciduous_tree: Project</h4>
 <hr>
-<h4>1.<a href="https://github.com/yeongmin7870/ys_Cinema_Server">영화예매 어플</h4></p>
-<a>영화어플서버입니다.</a>
+<h4>1. <a href="https://github.com/yeongmin7870/ys_Cinema_Server">영화예매 어플</a></h4>
+<ul>
+<p>sdfdfsdf</p>
+</ul>
 <h4>:deciduous_tree: Contact</h4>
 <hr>
 <ul>
