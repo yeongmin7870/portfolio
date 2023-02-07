@@ -16,7 +16,7 @@ Inflearn 강의 사이트에서 Spring boot 관련 강의를<br>
 </p>
 <h4>:deciduous_tree: Project</h4>
 <hr>
-<h4>1. <a href="https://github.com/yeongmin7870/ys_Cinema_Server">전공 책 싸게 사자</a></h4>
+<h4>1. <a href="https://github.com/yeongmin7870/board">전공 책 싸게 사자</a></h4>
 <ul>
   <p>
     <li>전공 책 싸게 사자 (개인)</li>
