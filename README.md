@@ -5,7 +5,7 @@
 </p>
 <h4>:deciduous_tree: Intro</h4>
 <hr>
-<img src="https://user-images.githubusercontent.com/73753121/217274979-da743400-f60e-4036-abcc-ab0ded0f6f2b.jpg">
+<img src="https://user-images.githubusercontent.com/73753121/217274979-da743400-f60e-4036-abcc-ab0ded0f6f2b.jpg" width="100px" height="100px">
 <p>
 어떤 프레임워크 또는 언어든지 간에 금방 배워서 적용할 수 있습니다,<br>
 Inflearn 강의 사이트에서 Spring boot 관련 강의를<br>
