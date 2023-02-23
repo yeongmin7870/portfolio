@@ -15,7 +15,7 @@
 
 ## :deciduous_tree: Project
 ---
-### 1. <a href="https://github.com/yeongmin7870/board">전공 책 싸게 사자</a>
+### <a href="https://github.com/yeongmin7870/board">1. 전공 책 싸게 사자 (클릭 시 프로젝트 이동)</a>
 
 >- 2022 년 12 월 21일 ~ 2033 년 2 월 22일
 >- 개인프로젝트
