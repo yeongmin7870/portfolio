@@ -6,8 +6,8 @@
 ---
 <img src="https://user-images.githubusercontent.com/73753121/217274979-da743400-f60e-4036-abcc-ab0ded0f6f2b.jpg" width="50%" height="auto">
 
->어떤 프레임워크 또는 언어든지 간에 금방 배워서 적용할 수 있습니다,<br>
->Inflearn 강의 사이트에서 Spring boot 관련 강의를<br>
+>어떤 프레임워크, 언어든지 간에 금방 배워서 적용할 수 있습니다,<br>
+>예를 들면 Inflearn 강의 사이트에서 Spring boot 관련 강의를<br>
 >스스로 완강하고 직접 학교 프로젝트에 적용하면서 해당 과목 A+을 받은 적이 있습니다.
   
 >의사소통에 적극적입니다, 문제점들을 말하는 것을 두려워하지 않고<br>
